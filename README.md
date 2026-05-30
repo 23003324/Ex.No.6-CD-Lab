@@ -72,6 +72,9 @@ int main() {
     return 0;
 }
 ```
+## INPUT:
+<img width="375" height="119" alt="Screenshot 2026-05-30 145816" src="https://github.com/user-attachments/assets/14784a93-a351-4b41-88f7-60a78dfdcd96" />
+
 ## OUTPUT:
 <img width="1478" height="757" alt="image" src="https://github.com/user-attachments/assets/a44aa292-0ef8-4c5b-9ffc-93103a53cba0" />
 
